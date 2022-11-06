@@ -1,0 +1,4 @@
+Інтерфейси : https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html
+Абстракція : https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html
+Поліморфізм : https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html
+Оверрайдінг : https://docs.oracle.com/javase/tutorial/java/IandI/override.html
